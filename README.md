@@ -22,6 +22,7 @@ For detailed instructions, see:
 - [SETUP-MAC-LINUX.md](docs/SETUP-MAC-LINUX.md)
 - [SETUP-WINDOWS.md](docs/SETUP-WINDOWS.md)
 
+
 ## Python Versions (3.11 for this course)
 
 The most current version of Python is 3.13. 
