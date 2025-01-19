@@ -68,13 +68,13 @@ Windows PowerShell:
 
 ```shell
 .venv\Scripts\activate
-py -m producers.basic_producer_case
+py -m producers.basic_producer_hatfield
 ```
 
 Mac/Linux:
 ```zsh
 source .venv/bin/activate
-python3 -m producers.basic_producer_case
+python3 -m producers.basic_producer_hatfield
 ```
 
 ## Task 5. Monitor an Active Log File (Terminal 2)
@@ -88,13 +88,13 @@ Use the commands below to activate .venv, and run the file as a module.
 Windows:
 ```shell
 .venv\Scripts\activate
-py -m consumers.basic_consumer_case.py
+py -m consumers.basic_consumer_hatfield.py
 ```
 
 Mac/Linux:
 ```zsh
 source .venv/bin/activate
-python3 -m consumers.basic_consumer_case.py
+python3 -m consumers.basic_consumer_hatfield.py
 ```
 
 ## Save Space
